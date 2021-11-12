@@ -1,0 +1,10 @@
+name: Quality Check
+on: push
+
+jobs: 
+  check_quality:
+    name: Several quality checks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: grep " Stan de Foucault" README.md # custom command

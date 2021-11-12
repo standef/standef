@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hello I'm Stan de Foucault and I'm studying ML and AI. 
 <!--
 **standef/standef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
